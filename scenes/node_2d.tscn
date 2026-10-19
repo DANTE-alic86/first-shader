@@ -13,4 +13,4 @@ material = SubResource("ShaderMaterial_mh4i2")
 position = Vector2(468, 305)
 texture = ExtResource("2_rnjyy")
 
-[node name="Node2D" type="Node2D" parent="." unique_id=1519436750]
+[node name="Player" type="Node2D" parent="." unique_id=1519436750]
