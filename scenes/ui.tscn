@@ -12,3 +12,8 @@ grow_vertical = 2
 anchors_preset = 0
 offset_right = 40.0
 offset_bottom = 40.0
+
+[node name="test" type="Control" parent="Control" unique_id=1595100246]
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
